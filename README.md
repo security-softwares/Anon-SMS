@@ -2,11 +2,9 @@
 <a href=""><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 
-![h](https://github.com/HackersTech/anonymous-SMS/blob/main/IMG_20210618_224329.jpg)
-
 ![Ht](https://img.shields.io/badge/Made%20by-SecurityEssentials-orange)
 
-# anonymous-messaging
+# anonymous-sms
 ## Hi frd's here you get anonymous msging tool for termux or linux or etc you can use one time in a day for free 😊
 
 
