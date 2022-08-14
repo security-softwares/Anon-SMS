@@ -21,7 +21,11 @@ pkg install python
 pkg install git
 
 pkg install ruby
- 
+
+pip install requests
+
+pip install figlet
+
 gem install lolcat
 
 pkg install pip
