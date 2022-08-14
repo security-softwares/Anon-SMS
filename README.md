@@ -77,7 +77,7 @@ Links
 ---
 **How to use**
 
-Image ![](https://github.com/HackersTech/anonymous-SMS/blob/main/IMG_20210523_144032.jpg)
+Image ![](https://raw.githubusercontent.com/security-essentials/Anon-SMS/main/IMG_20210523_144032.jpg)
 ---
 |share|our|repo |
 |--- |--- |--- |
