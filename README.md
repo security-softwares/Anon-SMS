@@ -74,7 +74,7 @@ Same id for reddit as twitter
 
 ---
 Links
-[Subscribe our YouTube channel link](https://youtube.com/channel/UCEX1r_jZouOOpKY7DiWIR6A)
+[Subscribe our YouTube channel link](https://www.youtube.com/channel/UCqVu524dUZOxscEMiou7Iew)
 
 
 ---
