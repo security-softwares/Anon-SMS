@@ -39,7 +39,7 @@ pkg install pip
 **clone** **repo**
 
 
-- git clone https://github.com/security-essentials/Anon-SMS
+- git clone https://github.com/security-softwares/Anon-SMS
 
 
 >apt-get install figlet lolcat
